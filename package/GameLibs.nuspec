@@ -5,7 +5,7 @@
 
     <!-- Version of your nuget package. Should reflect the game version where the libs come from. -->
     <!-- 2021.3.14f1 -->
-    <version>V1.0</version>
+    <version>1.0.0</version>
 
     <!-- The GitHub workflow will automatically populate these. -->
     <id>$name$</id>
